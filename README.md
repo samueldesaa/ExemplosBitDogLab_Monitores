@@ -24,15 +24,6 @@ Certifique-se de que você possui:
 2. Acesse a pasta do exemplo desejado.
 3. Siga as instruções no README de cada projeto.
 
-## Visualizações
-![Número de Stars](https://img.shields.io/github/stars/samueldesaa/ExemplosBitDogLab_Monitores?style=flat-square)
-
-![Número de Forks](https://img.shields.io/github/forks/samueldesaa/ExemplosBitDogLab_Monitores?style=flat-square)
-
-![Issues Abertas](https://img.shields.io/github/issues/samueldesaa/ExemplosBitDogLab_Monitores?style=flat-square)
-
-![Último Commit](https://img.shields.io/github/last-commit/samueldesaa/ExemplosBitDogLab_Monitores?style=flat-square)
-
 ## Contribuindo
 Os monitores incentivam todos a contribuir para este repositório, seja com exemplos, correções ou melhorias.
 
