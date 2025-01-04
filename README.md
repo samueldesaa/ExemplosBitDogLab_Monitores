@@ -24,13 +24,6 @@ Certifique-se de que você possui:
 2. Acesse a pasta do exemplo desejado.
 3. Siga as instruções no README de cada projeto.
 
-## Visualizações
-![Gráficos de Contribuição](https://github-readme-stats.vercel.app/api?username=samueldesaa&show_icons=true&theme=radical)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=samueldesaa&layout=compact&theme=radical)
-
-![Commits](https://streak-stats.demolab.com/?user=samueldesaa&theme=radical)
-
 ## Contribuindo
 Os monitores incentivam todos a contribuir para este repositório, seja com exemplos, correções ou melhorias.
 
@@ -50,7 +43,31 @@ Os monitores incentivam todos a contribuir para este repositório, seja com exem
 5. Abra um pull request.
 
 ## Licença
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo abaixo para mais detalhes:
+
+```
+MIT License
+
+Copyright (c) 2025 Samuel Chaves De Sá
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
 
 ## Contato
 Se você tiver dúvidas ou sugestões, entre em contato com a equipe do **EmbarcaTech** através do nosso e-mail oficial ou abra uma issue neste repositório.
