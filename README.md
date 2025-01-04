@@ -19,19 +19,19 @@ Certifique-se de que você possui:
 ## Como Usar Este Repositório
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/samueldesaa/embarcatech-exemplos.git
+   git clone https://github.com/samueldesaa/ExemplosBitDogLab_Monitores.git
    ```
 2. Acesse a pasta do exemplo desejado.
 3. Siga as instruções no README de cada projeto.
 
 ## Visualizações
-![Número de Stars](https://img.shields.io/github/stars/samueldesaa/embarcatech-exemplos?style=flat-square)
+![Número de Stars](https://img.shields.io/github/stars/samueldesaa/ExemplosBitDogLab_Monitores?style=flat-square)
 
-![Número de Forks](https://img.shields.io/github/forks/samueldesaa/embarcatech-exemplos?style=flat-square)
+![Número de Forks](https://img.shields.io/github/forks/samueldesaa/ExemplosBitDogLab_Monitores?style=flat-square)
 
-![Issues Abertas](https://img.shields.io/github/issues/samueldesaa/embarcatech-exemplos?style=flat-square)
+![Issues Abertas](https://img.shields.io/github/issues/samueldesaa/ExemplosBitDogLab_Monitores?style=flat-square)
 
-![Último Commit](https://img.shields.io/github/last-commit/samueldesaa/embarcatech-exemplos?style=flat-square)
+![Último Commit](https://img.shields.io/github/last-commit/samueldesaa/ExemplosBitDogLab_Monitores?style=flat-square)
 
 ## Contribuindo
 Os monitores incentivam todos a contribuir para este repositório, seja com exemplos, correções ou melhorias.
