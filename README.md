@@ -19,17 +19,17 @@ Certifique-se de que você possui:
 ## Como Usar Este Repositório
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/embarcatech-exemplos.git
+   git clone https://github.com/samueldesaa/embarcatech-exemplos.git
    ```
 2. Acesse a pasta do exemplo desejado.
 3. Siga as instruções no README de cada projeto.
 
 ## Visualizações
-![Gráficos de Contribuição](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Gráficos de Contribuição](https://github-readme-stats.vercel.app/api?username=samueldesaa&show_icons=true&theme=radical)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=samueldesaa&layout=compact&theme=radical)
 
-![Commits](https://streak-stats.demolab.com/?user=seu-usuario&theme=radical)
+![Commits](https://streak-stats.demolab.com/?user=samueldesaa&theme=radical)
 
 ## Contribuindo
 Os monitores incentivam todos a contribuir para este repositório, seja com exemplos, correções ou melhorias.
